@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+
+.poster{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   margin-top: 3cm;
+   color: aliceblue;
+   
+}
+
+.picture{
+    border: 5px solid aliceblue;
+}

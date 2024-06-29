@@ -1,0 +1,14 @@
+.h1{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+
+body{
+    background-color: black;
+}
+
+.egg{
+    text-align: right;
+    color: black;
+}
